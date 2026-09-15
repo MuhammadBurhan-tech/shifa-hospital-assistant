@@ -1,0 +1,149 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Nursing Department Guidelines\nNursing Care Standards\n\u25cf\nEvery inpatient has an individualized nursing care plan developed within the first shift after admission.\n\u25cf\nVital signs are checked per the frequency set by the attending physician, with a minimum of once\nevery 8 hours for stable patients.\n\u25cf\nNurses document care using the standard nursing notes format at every shift.\nShift Handover\n\u25cf\nHandover between shifts uses the SBAR format and occurs at the patient's bedside whenever\npossible.\n\u25cf\nOutstanding tasks, pending results, and any safety concerns must be explicitly communicated at\nhandover.\nNurse-to-Patient Ratios\n\u25cf\nGeneral wards maintain a target ratio of 1 nurse to 6 patients per shift.\n\u25cf\nIntensive Care Units maintain a target ratio of 1 nurse to 2 patients per shift.\nInfection Control\n\u25cf\nHand hygiene is performed before and after every patient contact, following the WHO 'Five Moments\nfor Hand Hygiene'.\n\u25cf",
+    "department": "departments",
+    "source_file": "nursing_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 1,
+    "text": "Infection Control\n\u25cf\nHand hygiene is performed before and after every patient contact, following the WHO 'Five Moments\nfor Hand Hygiene'.\n\u25cf\nPersonal protective equipment (PPE) is used according to the patient's isolation precautions (contact,\ndroplet, or airborne).",
+    "department": "departments",
+    "source_file": "nursing_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 2,
+    "text": "Pharmacy Department Guidelines\nRole of the Pharmacy Department\n\u25cf\nThe pharmacy reviews, dispenses, and monitors all medications ordered for inpatients and\noutpatients.\n\u25cf\nA licensed pharmacist reviews every new medication order for appropriateness, dosing, and\ninteractions before it is dispensed.\nDispensing Process\n\u25cf\nInpatient medications are dispensed through a unit-dose system, with each dose individually packaged\nand labeled.\n\u25cf\nOutpatient prescriptions require a valid prescription from a registered physician and are verified\nagainst the patient's known allergies.\n\u25cf\nControlled substances (e.g., opioids) require additional documentation and are tracked in a separate\ncontrolled-drug register.\nMedication Safety Checks\n\u25cf\nThe pharmacy system automatically flags drug-drug interactions, duplicate therapy, and allergy\nconflicts.\n\u25cf\nHigh-alert medications require pharmacist counter-verification before release to the ward.\nPatient Counseling\n\u25cf",
+    "department": "departments",
+    "source_file": "pharmacy_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 3,
+    "text": "conflicts.\n\u25cf\nHigh-alert medications require pharmacist counter-verification before release to the ward.\nPatient Counseling\n\u25cf\nOutpatients receiving new medications are offered counseling on dosage, side effects, and storage\nbefore leaving the pharmacy.",
+    "department": "departments",
+    "source_file": "pharmacy_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 4,
+    "text": "Billing Department Information\nBilling Process Overview\n\u25cf\nCharges accumulate automatically in the patient's account as services, medications, and procedures\nare provided.\n\u25cf\nThe billing office verifies insurance coverage or payment arrangements at admission and again at\ndischarge.\nPayment Methods\n\u25cf\nAccepted payment methods include cash, debit/credit card, bank transfer, and approved insurance\npanels.\n\u25cf\nPatients with panel insurance must present a valid insurance card; the billing office coordinates\npre-authorization where required.\nDischarge Billing\n\u25cf\nA final itemized bill is prepared once the discharging physician signs the discharge order.\n\u25cf\nPatients or their families may request an itemized breakdown of all charges before making final\npayment.\nBilling Disputes\n\u25cf\nAny disputed charge is reviewed by the billing office within 5 working days, with the patient notified of\nthe outcome in writing.",
+    "department": "departments",
+    "source_file": "billing_information.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 5,
+    "text": "Patient Registration Process\nNew Patient Registration\n\u25cf\nNew patients provide full name, date of birth, CNIC/passport number, contact details, and next of kin\ninformation.\n\u25cf\nThe registration system generates a unique Medical Record Number (MRN) used across all hospital\ndepartments.\n\u25cf\nA photo may be taken at registration for identity verification, consistent with hospital privacy policy.\nReturning Patient Registration\n\u25cf\nReturning patients are located in the system by MRN, CNIC, or name plus date of birth.\n\u25cf\nAny changes to contact information, insurance, or next of kin are updated at each visit.\nRegistration Channels\n\u25cf\nWalk-in registration desks in the main lobby and outpatient clinics.\n\u25cf\nOnline pre-registration through the hospital website for scheduled appointments.\n\u25cf\nPhone registration for patients arranging admission in advance.\nData Privacy at Registration\n\u25cf\nAll personal and medical information collected at registration is protected under the hospital's privacy",
+    "department": "admissions",
+    "source_file": "patient_registration.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 6,
+    "text": "Data Privacy at Registration\n\u25cf\nAll personal and medical information collected at registration is protected under the hospital's privacy\nand data protection policy.\n\u25cf\nStaff may only access patient records relevant to the patient's current care (minimum necessary\naccess principle).",
+    "department": "admissions",
+    "source_file": "patient_registration.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 7,
+    "text": "Patient Admission Guidelines\nTypes of Admission\n\u25cf\nElective Admission: scheduled in advance for planned procedures or treatment, arranged through the\noutpatient clinic.\n\u25cf\nEmergency Admission: initiated from the ED for patients who need inpatient care (see\nemergency_procedures.pdf).\n\u25cf\nDirect Admission: a patient is admitted on a physician's order without going through the ED, usually for\na known condition requiring monitoring.\nAdmission Requirements\n\u25cf\nA valid CNIC or other government ID is required for registration.\n\u25cf\nAn admitting physician's order, including provisional diagnosis and requested ward/bed type, must be\non file.\n\u25cf\nInsurance or payment method is verified by the billing office before or shortly after admission (see\nbilling_information.pdf).\n\u25cf\nA signed general consent for treatment is obtained from the patient or their legal guardian.\nBed Allocation\n\u25cf\nBed allocation is coordinated by the Bed Management Office based on clinical need, ward specialty,\nand isolation requirements.",
+    "department": "admissions",
+    "source_file": "patient_admission_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 8,
+    "text": "Bed Allocation\n\u25cf\nBed allocation is coordinated by the Bed Management Office based on clinical need, ward specialty,\nand isolation requirements.\n\u25cf\nPatients requiring isolation (e.g., infectious disease) are prioritized for single rooms where available.\nAdmission Documentation Checklist\n\u25cf\nComplete nursing admission assessment within 2 hours of arrival on the ward.\n\u25cf\nPhysician's admission note documented within 24 hours.\n\u25cf\nAllergy status confirmed and allergy wristband applied.\n\u25cf\nInitial care plan and expected length of stay documented.",
+    "department": "admissions",
+    "source_file": "patient_admission_guidelines.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 9,
+    "text": "Emergency Triage Protocol\nPurpose of Triage\n\u25cf\nTriage is the process of quickly sorting patients by the severity of their condition so the sickest patients\nare treated first.\n\u25cf\nShifa International Hospitals uses a 4-level triage system based on the Emergency Severity Index\n(ESI) model.\nTriage Levels\n\u25cf\nLevel 1 \u2013 Critical: immediate life threat (e.g., cardiac arrest, severe airway obstruction). Seen\nimmediately, no waiting.\n\u25cf\nLevel 2 \u2013 Emergent: high risk situation, unstable vitals, or severe pain (e.g., chest pain, stroke\nsymptoms). Seen within 10 minutes.\n\u25cf\nLevel 3 \u2013 Urgent: stable but needs several resources (e.g., moderate abdominal pain, fractures). Seen\nwithin 30-60 minutes.\n\u25cf\nLevel 4 \u2013 Non-urgent: minor complaints needing one resource or less (e.g., minor cuts, cold\nsymptoms). Seen within 60-120 minutes.\nTriage Nurse Responsibilities\n\u25cf\nRecord chief complaint, vital signs, allergies, and current medications.\n\u25cf",
+    "department": "emergency",
+    "source_file": "emergency_triage.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 10,
+    "text": "symptoms). Seen within 60-120 minutes.\nTriage Nurse Responsibilities\n\u25cf\nRecord chief complaint, vital signs, allergies, and current medications.\n\u25cf\nAssign the ESI level and communicate it clearly to the receiving team using the color-coded triage\nboard (Red, Orange, Yellow, Green).\n\u25cf\nRe-triage any patient whose condition changes while waiting.\nSpecial Situations\n\u25cf\nPediatric, obstetric, and psychiatric emergencies follow the same 4-level system but are flagged for the\nrelevant on-call specialist immediately after triage.\n\u25cf\nMass casualty events trigger the hospital's Emergency Preparedness Plan, which temporarily\noverrides normal triage staffing ratios.",
+    "department": "emergency",
+    "source_file": "emergency_triage.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 11,
+    "text": "Emergency Department \u2013 General Care Guidelines\nScope of the Emergency Department (ED)\n\u25cf\nThe ED at Shifa International Hospitals provides 24/7 care for acute illness, trauma, and\nlife-threatening conditions.\n\u25cf\nAll patients arriving by ambulance or self-presenting are registered at the ED reception desk before\nclinical assessment, except in immediately life-threatening cases where treatment begins first.\n\u25cf\nThe department is staffed by emergency physicians, ED nurses, and on-call specialists from Surgery,\nMedicine, Pediatrics, and Cardiology.\nLevels of Emergency Care\n\u25cf\nResuscitation Bay: for cardiac arrest, severe trauma, and airway emergencies. Response time target\nis immediate.\n\u25cf\nAcute Care Area: for patients needing continuous monitoring but who are not in immediate danger of\ndeath.\n\u25cf\nAmbulatory Care Area: for minor injuries and stable, low-acuity complaints such as sprains or minor\nlacerations.\nStandard Operating Principles\n\u25cf",
+    "department": "emergency",
+    "source_file": "emergency_care.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 12,
+    "text": "\u25cf\nAmbulatory Care Area: for minor injuries and stable, low-acuity complaints such as sprains or minor\nlacerations.\nStandard Operating Principles\n\u25cf\nEvery patient is assessed within 10 minutes of arrival by a triage nurse (see emergency_triage.pdf for\nthe full triage protocol).\n\u25cf\nVital signs (blood pressure, pulse, temperature, oxygen saturation, respiratory rate) are recorded on\narrival and repeated per the acuity level.\n\u25cf\nA consulting physician must document a clear management plan in the patient's chart before any\nadmission or discharge decision.\n\u25cf\nAll emergency medications are administered only after verification of patient identity using two\nidentifiers (name and MRN/CNIC).\nDischarge from the ED\n\u25cf\nPatients discharged from the ED receive written aftercare instructions and a follow-up plan.\n\u25cf\nAny patient leaving against medical advice (LAMA) must sign a documented LAMA form after being\ncounseled on the risks.",
+    "department": "emergency",
+    "source_file": "emergency_care.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 13,
+    "text": "Emergency Admission & Escalation Procedures\nAdmitting an Emergency Patient\n\u25cf\nStep 1: Patient is triaged and assigned an ESI level (see emergency_triage.pdf).\n\u25cf\nStep 2: The attending ED physician performs an assessment and orders any needed labs or imaging.\n\u25cf\nStep 3: If admission is required, the physician contacts the relevant department (e.g., Cardiology,\nGeneral Surgery) for a bed and hand-over.\n\u25cf\nStep 4: Nursing staff complete the admission checklist, including allergy bands, consent forms, and\ninitial nursing assessment.\n\u25cf\nStep 5: The patient is transferred to the ward or ICU with a full handover summary.\nEscalation of Care\n\u25cf\nAny patient who deteriorates (drop in oxygen saturation, altered consciousness, unstable vitals)\ntriggers a Rapid Response Team (RRT) call.\n\u25cf\nThe RRT includes a senior physician, an ICU nurse, and a respiratory therapist, and must respond\nwithin 5 minutes of being paged.\n\u25cf\nAll RRT activations are logged and reviewed weekly by the Patient Safety Committee.",
+    "department": "emergency",
+    "source_file": "emergency_procedures.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 14,
+    "text": "within 5 minutes of being paged.\n\u25cf\nAll RRT activations are logged and reviewed weekly by the Patient Safety Committee.\nInter-Hospital Transfers\n\u25cf\nPatients requiring a level of care not available on-site (e.g., specialized neurosurgery) are stabilized\nfirst, then transferred with a full medical summary and consent.\n\u25cf\nA transfer is never initiated until the receiving facility has confirmed bed availability.",
+    "department": "emergency",
+    "source_file": "emergency_procedures.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 15,
+    "text": "Patient Safety Risk Assessment Guidelines\nPurpose\n\u25cf\nRisk assessments identify patients who are more likely to experience an adverse event, so preventive\nsteps can be taken early.\nFall Risk Assessment\n\u25cf\nEvery inpatient is screened on admission using the Morse Fall Scale, which scores history of falling,\nsecondary diagnosis, ambulatory aid, IV therapy, gait, and mental status.\n\u25cf\nPatients scoring 'high risk' receive a yellow wristband, a bed alarm, and a bedside fall-prevention sign.\n\u25cf\nReassessment occurs after any fall, transfer, or significant change in condition.\nPressure Injury Risk Assessment\n\u25cf\nThe Braden Scale is used to assess risk of pressure injuries (bedsores) for all patients with limited\nmobility.\n\u25cf\nHigh-risk patients receive a turning schedule every 2 hours and a pressure-relieving mattress.\nVenous Thromboembolism (VTE) Risk Assessment\n\u25cf\nAll adult inpatients are assessed for VTE risk within 24 hours of admission using a standardized\nscoring tool.\n\u25cf",
+    "department": "patient_safety",
+    "source_file": "patient_safety_assessment.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 16,
+    "text": "\u25cf\nAll adult inpatients are assessed for VTE risk within 24 hours of admission using a standardized\nscoring tool.\n\u25cf\nAppropriate prophylaxis (mechanical or pharmacological) is prescribed based on the risk score, unless\ncontraindicated.\nDocumentation\n\u25cf\nAll risk assessment scores and the resulting care plan must be documented in the patient's chart and\nreviewed at every shift change.",
+    "department": "patient_safety",
+    "source_file": "patient_safety_assessment.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 17,
+    "text": "Patient Safety Toolkit\nCore Patient Safety Goals\n\u25cf\nCorrectly identify every patient using two identifiers before any procedure, medication, or transfusion.\n\u25cf\nImprove communication among caregivers, especially during shift handovers, using the SBAR format\n(Situation, Background, Assessment, Recommendation).\n\u25cf\nReduce the risk of healthcare-associated infections through hand hygiene compliance at all five WHO\nmoments.\n\u25cf\nReduce the risk of harm from falls by screening every inpatient with a validated fall-risk tool on\nadmission.\nMedication Safety\n\u25cf\nHigh-alert medications (insulin, heparin, opioids, concentrated electrolytes) require an independent\ndouble-check by a second nurse before administration.\n\u25cf\nAll verbal orders must be read back and confirmed before being carried out.\n\u25cf\nLook-alike/sound-alike (LASA) drugs are stored separately and labeled with tall-man lettering.\nIncident Reporting\n\u25cf\nAny near-miss, adverse event, or sentinel event must be reported through the hospital's electronic",
+    "department": "patient_safety",
+    "source_file": "patient_safety_toolkit.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 18,
+    "text": "Incident Reporting\n\u25cf\nAny near-miss, adverse event, or sentinel event must be reported through the hospital's electronic\nincident reporting system within 24 hours.\n\u25cf\nReports are reviewed without individual blame, focusing on system-level causes, in line with a 'just\nculture' approach.\nSurgical Safety\n\u25cf\nThe WHO Surgical Safety Checklist is completed at three points: before anesthesia (sign-in), before\nincision (time-out), and before the patient leaves the operating room (sign-out).",
+    "department": "patient_safety",
+    "source_file": "patient_safety_toolkit.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 19,
+    "text": "Patient Rights & Responsibilities\nPatient Rights\n\u25cf\nRight to receive care with dignity, respect, and without discrimination.\n\u25cf\nRight to receive clear information about diagnosis, treatment options, and expected costs.\n\u25cf\nRight to give or refuse informed consent for any procedure or treatment.\n\u25cf\nRight to privacy and confidentiality of personal health information.\n\u25cf\nRight to request a second opinion or to be referred to another facility.\nPatient Responsibilities\n\u25cf\nProvide accurate and complete information about health history and current condition.\n\u25cf\nFollow the agreed treatment plan or discuss concerns with the care team before deviating from it.\n\u25cf\nTreat hospital staff and other patients with courtesy and respect.\n\u25cf\nMeet financial obligations for the services received, as outlined by the billing office.\nComplaints & Feedback\n\u25cf\nPatients or families may submit complaints or feedback through the Patient Relations Office, in person,\nby phone, or via the hospital website.\n\u25cf",
+    "department": "hospital",
+    "source_file": "patient_rights.pdf",
+    "page": 0
+  },
+  {
+    "chunk_id": 20,
+    "text": "\u25cf\nPatients or families may submit complaints or feedback through the Patient Relations Office, in person,\nby phone, or via the hospital website.\n\u25cf\nAll complaints are acknowledged within 48 hours and investigated by the relevant department.",
+    "department": "hospital",
+    "source_file": "patient_rights.pdf",
+    "page": 0
+  }
+]
