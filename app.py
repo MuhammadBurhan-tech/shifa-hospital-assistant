@@ -16,12 +16,55 @@ st.set_page_config(page_title="Hospital Policy Assistant", page_icon="🏥", lay
 # ---- Load resources (cached so they only load once per session) ----
 @st.cache_resource
 def load_vectorstore():
+    # --- Diagnostics: check the index exists and is readable BEFORE calling FAISS ---
+    abs_path = os.path.abspath(FAISS_INDEX_PATH)
+
+    if not os.path.isdir(FAISS_INDEX_PATH):
+        st.error(
+            f"FAISS index folder not found at: `{abs_path}`\n\n"
+            f"Current working directory contents: {os.listdir('.')}\n\n"
+            "This means `faiss_index/` was not deployed with your app — check that it's "
+            "committed to your GitHub repo (not excluded by .gitignore, and not stuck as a "
+            "Git LFS pointer)."
+        )
+        st.stop()
+
+    files_found = os.listdir(FAISS_INDEX_PATH)
+    required = ["index.faiss", "index.pkl"]
+    missing = [f for f in required if f not in files_found]
+
+    if missing:
+        st.error(
+            f"`faiss_index/` exists at `{abs_path}` but is missing: {missing}\n\n"
+            f"Files actually found there: {files_found}\n\n"
+            "Re-check that both index.faiss and index.pkl were committed and pushed to GitHub."
+        )
+        st.stop()
+
+    # Show file sizes — a 0-byte or few-KB index.faiss usually means a bad Git LFS pointer
+    # instead of the real binary file.
+    sizes = {f: os.path.getsize(os.path.join(FAISS_INDEX_PATH, f)) for f in required}
+    tiny_files = [f for f, sz in sizes.items() if sz < 1024]
+    if tiny_files:
+        st.error(
+            f"These index files are suspiciously small (likely broken/placeholder, not the "
+            f"real binary): {tiny_files} — sizes in bytes: {sizes}\n\n"
+            "This is the classic symptom of a Git LFS pointer file being committed instead "
+            "of the actual file content. Re-upload these files directly (not via LFS) or "
+            "check your repo's LFS settings."
+        )
+        st.stop()
+
     embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
-    return FAISS.load_local(
-        FAISS_INDEX_PATH,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
+    try:
+        return FAISS.load_local(
+            FAISS_INDEX_PATH,
+            embeddings,
+            allow_dangerous_deserialization=True
+        )
+    except Exception as e:
+        st.error(f"FAISS failed to read the index despite files being present.\n\nError: {e}")
+        st.stop()
 
 
 @st.cache_resource
