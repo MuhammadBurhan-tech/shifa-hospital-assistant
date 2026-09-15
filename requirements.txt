@@ -1,5 +1,5 @@
 streamlit
 langchain-community
-faiss-cpu
+faiss-cpu==1.15.0
 sentence-transformers
 groq
